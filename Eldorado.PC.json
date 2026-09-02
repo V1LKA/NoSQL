@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280cac7"
+  },
+  "productId": 101,
+  "name": "Laptop Lenovo Pro",
+  "category": "Laptops",
+  "price": 410000,
+  "stock": 15,
+  "tags": [
+    "notebook",
+    "office",
+    "work"
+  ],
+  "details": {
+    "brand": "Lenovo",
+    "warrantyYears": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280cac8"
+  },
+  "productId": 102,
+  "name": "iPhone 15",
+  "category": "Smartphones",
+  "price": 480000,
+  "stock": 8,
+  "tags": [
+    "mobile",
+    "apple",
+    "flagship"
+  ],
+  "details": {
+    "brand": "Apple",
+    "warrantyYears": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280cac9"
+  },
+  "productId": 103,
+  "name": "Samsung Galaxy S24",
+  "category": "Smartphones",
+  "price": 450000,
+  "stock": 12,
+  "tags": [
+    "mobile",
+    "android",
+    "flagship"
+  ],
+  "details": {
+    "brand": "Samsung",
+    "warrantyYears": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280caca"
+  },
+  "productId": 104,
+  "name": "Monitor LG Ultra",
+  "category": "Monitors",
+  "price": 180000,
+  "stock": 20,
+  "tags": [
+    "display",
+    "gaming",
+    "office"
+  ],
+  "details": {
+    "brand": "LG",
+    "warrantyYears": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280cacb"
+  },
+  "productId": 105,
+  "name": "Keyboard Keychron",
+  "category": "Accessories",
+  "price": 55000,
+  "stock": 30,
+  "tags": [
+    "mechanical",
+    "office",
+    "work"
+  ],
+  "details": {
+    "brand": "Keychron",
+    "warrantyYears": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280cacc"
+  },
+  "productId": 106,
+  "name": "Mouse Logitech MX",
+  "category": "Accessories",
+  "price": 48000,
+  "stock": 25,
+  "tags": [
+    "wireless",
+    "office",
+    "work"
+  ],
+  "details": {
+    "brand": "Logitech",
+    "warrantyYears": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280cacd"
+  },
+  "productId": 107,
+  "name": "Headphones Sony WH",
+  "category": "Audio",
+  "price": 160000,
+  "stock": 5,
+  "tags": [
+    "wireless",
+    "audio",
+    "premium"
+  ],
+  "details": {
+    "brand": "Sony",
+    "warrantyYears": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280cace"
+  },
+  "productId": 108,
+  "name": "Tablet iPad Air",
+  "category": "Tablets",
+  "price": 340000,
+  "stock": 10,
+  "tags": [
+    "apple",
+    "mobile",
+    "design"
+  ],
+  "details": {
+    "brand": "Apple",
+    "warrantyYears": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280cacf"
+  },
+  "productId": 109,
+  "name": "MacBook Air M2",
+  "category": "Laptops",
+  "price": 590000,
+  "stock": 6,
+  "tags": [
+    "notebook",
+    "apple",
+    "premium"
+  ],
+  "details": {
+    "brand": "Apple",
+    "warrantyYears": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c1c622b71188b280cad0"
+  },
+  "productId": 110,
+  "name": "Smartwatch Garmin",
+  "category": "Wearables",
+  "price": 210000,
+  "stock": 14,
+  "tags": [
+    "sport",
+    "audio",
+    "wireless"
+  ],
+  "details": {
+    "brand": "Garmin",
+    "warrantyYears": 2
+  }
+}]
