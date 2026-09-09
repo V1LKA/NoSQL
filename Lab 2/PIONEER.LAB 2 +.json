@@ -1,0 +1,18 @@
+[{
+  "_id": 501,
+  "name": "Pioneer Auto City",
+  "city": "Almaty",
+  "address": "Abay Ave 150"
+},
+{
+  "_id": 502,
+  "name": "Premium Motors",
+  "city": "Astana",
+  "address": "Mangilik El Ave 25"
+},
+{
+  "_id": 503,
+  "name": "Nomad Cars",
+  "city": "Shymkent",
+  "address": "Tauke Khan Ave 88"
+}]
