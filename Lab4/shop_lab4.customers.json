@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03b2"
+  },
+  "customerId": 501,
+  "name": "Айдар",
+  "email": "aidar@example.com",
+  "city": "Алматы"
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03b3"
+  },
+  "customerId": 502,
+  "name": "Дана",
+  "email": "dana@example.com",
+  "city": "Астана"
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03b4"
+  },
+  "customerId": 503,
+  "name": "Иван",
+  "email": "ivan@example.com",
+  "city": "Шымкент"
+}]

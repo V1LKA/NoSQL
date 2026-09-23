@@ -1,0 +1,464 @@
+[{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03b9"
+  },
+  "productId": 101,
+  "name": "Laptop Lenovo ThinkPad",
+  "category": "Notebook",
+  "price": 420000,
+  "stock": 15,
+  "rating": 4.7,
+  "tags": [
+    "office",
+    "programming",
+    "low-budget"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03ba"
+  },
+  "productId": 102,
+  "name": "Laptop ASUS ROG Strix",
+  "category": "Notebook",
+  "price": 720000,
+  "stock": 8,
+  "rating": 4.9,
+  "tags": [
+    "gaming",
+    "programming",
+    "premium"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03bb"
+  },
+  "productId": 103,
+  "name": "Laptop HP Pavilion",
+  "category": "Notebook",
+  "price": 350000,
+  "stock": 20,
+  "rating": 4.3,
+  "tags": [
+    "office",
+    "study"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03bc"
+  },
+  "productId": 104,
+  "name": "MacBook Air M2",
+  "category": "Notebook",
+  "price": 650000,
+  "stock": 12,
+  "rating": 4.8,
+  "tags": [
+    "premium",
+    "ios",
+    "design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03bd"
+  },
+  "productId": 105,
+  "name": "MacBook Pro 16",
+  "category": "Notebook",
+  "price": 1200000,
+  "stock": 5,
+  "rating": 5,
+  "tags": [
+    "premium",
+    "video",
+    "programming"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03be"
+  },
+  "productId": 106,
+  "name": "Laptop Acer Aspire",
+  "category": "Notebook",
+  "price": 280000,
+  "stock": 0,
+  "rating": 4.1,
+  "tags": [
+    "budget",
+    "study"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03bf"
+  },
+  "productId": 201,
+  "name": "Phone Samsung S23",
+  "category": "Smartphone",
+  "price": 410000,
+  "stock": 25,
+  "rating": 4.6,
+  "tags": [
+    "mobile",
+    "android",
+    "photo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c0"
+  },
+  "productId": 202,
+  "name": "iPhone 15 Pro",
+  "category": "Smartphone",
+  "price": 680000,
+  "stock": 14,
+  "rating": 4.9,
+  "tags": [
+    "mobile",
+    "ios",
+    "premium"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c1"
+  },
+  "productId": 203,
+  "name": "Xiaomi 13T",
+  "category": "Smartphone",
+  "price": 250000,
+  "stock": 30,
+  "rating": 4.4,
+  "tags": [
+    "mobile",
+    "android",
+    "budget"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c2"
+  },
+  "productId": 204,
+  "name": "Google Pixel 8",
+  "category": "Smartphone",
+  "price": 380000,
+  "stock": 10,
+  "rating": 4.7,
+  "tags": [
+    "mobile",
+    "android",
+    "photo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c3"
+  },
+  "productId": 205,
+  "name": "OnePlus 11",
+  "category": "Smartphone",
+  "price": 340000,
+  "stock": 7,
+  "rating": 4.5,
+  "tags": [
+    "mobile",
+    "android"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c4"
+  },
+  "productId": 206,
+  "name": "POCO X5",
+  "category": "Smartphone",
+  "price": 150000,
+  "stock": 40,
+  "rating": 4.2,
+  "tags": [
+    "mobile",
+    "android",
+    "budget"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c5"
+  },
+  "productId": 301,
+  "name": "AirPods Pro 2",
+  "category": "Audio",
+  "price": 130000,
+  "stock": 18,
+  "rating": 4.8,
+  "tags": [
+    "wireless",
+    "ios",
+    "premium"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c6"
+  },
+  "productId": 302,
+  "name": "Sony WH-1000XM5",
+  "category": "Audio",
+  "price": 180000,
+  "stock": 9,
+  "rating": 4.9,
+  "tags": [
+    "wireless",
+    "anc",
+    "premium"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c7"
+  },
+  "productId": 303,
+  "name": "JBL Flip 6",
+  "category": "Audio",
+  "price": 65000,
+  "stock": 22,
+  "rating": 4.5,
+  "tags": [
+    "portable",
+    "waterproof"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c8"
+  },
+  "productId": 304,
+  "name": "Marshall Major IV",
+  "category": "Audio",
+  "price": 85000,
+  "stock": 15,
+  "rating": 4.6,
+  "tags": [
+    "wireless",
+    "style"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03c9"
+  },
+  "productId": 305,
+  "name": "Samsung Galaxy Buds 2",
+  "category": "Audio",
+  "price": 55000,
+  "stock": 0,
+  "rating": 4.3,
+  "tags": [
+    "wireless",
+    "android"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03ca"
+  },
+  "productId": 306,
+  "name": "Sennheiser HD 560S",
+  "category": "Audio",
+  "price": 110000,
+  "stock": 4,
+  "rating": 4.7,
+  "tags": [
+    "wired",
+    "studio"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03cb"
+  },
+  "productId": 401,
+  "name": "Apple Watch Series 9",
+  "category": "Smartwatch",
+  "price": 240000,
+  "stock": 11,
+  "rating": 4.7,
+  "tags": [
+    "wireless",
+    "ios",
+    "sport"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03cc"
+  },
+  "productId": 402,
+  "name": "Samsung Galaxy Watch 6",
+  "category": "Smartwatch",
+  "price": 160000,
+  "stock": 16,
+  "rating": 4.5,
+  "tags": [
+    "wireless",
+    "android",
+    "sport"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03cd"
+  },
+  "productId": 403,
+  "name": "Garmin Fenix 7",
+  "category": "Smartwatch",
+  "price": 450000,
+  "stock": 6,
+  "rating": 4.9,
+  "tags": [
+    "sport",
+    "gps",
+    "premium"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03ce"
+  },
+  "productId": 404,
+  "name": "Huawei Watch GT 4",
+  "category": "Smartwatch",
+  "price": 110000,
+  "stock": 20,
+  "rating": 4.4,
+  "tags": [
+    "wireless",
+    "battery"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03cf"
+  },
+  "productId": 405,
+  "name": "Amazfit Bip 5",
+  "category": "Smartwatch",
+  "price": 45000,
+  "stock": 35,
+  "rating": 4.1,
+  "tags": [
+    "budget",
+    "battery"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03d0"
+  },
+  "productId": 501,
+  "name": "PowerBank Anker 20k",
+  "category": "Accessories",
+  "price": 35000,
+  "stock": 50,
+  "rating": 4.7,
+  "tags": [
+    "charger",
+    "travel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03d1"
+  },
+  "productId": 502,
+  "name": "Mouse Logitech MX Master 3S",
+  "category": "Accessories",
+  "price": 60000,
+  "stock": 13,
+  "rating": 4.8,
+  "tags": [
+    "office",
+    "programming"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03d2"
+  },
+  "productId": 503,
+  "name": "Keyboard Keychron K2",
+  "category": "Accessories",
+  "price": 55000,
+  "stock": 8,
+  "rating": 4.6,
+  "tags": [
+    "office",
+    "programming"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03d3"
+  },
+  "productId": 504,
+  "name": "HDMI Cable 2m",
+  "category": "Accessories",
+  "price": 5000,
+  "stock": 100,
+  "rating": 4.5,
+  "tags": [
+    "budget",
+    "cable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03d4"
+  },
+  "productId": 505,
+  "name": "SSD Samsung 990 Pro 1TB",
+  "category": "Accessories",
+  "price": 75000,
+  "stock": 17,
+  "rating": 4.9,
+  "tags": [
+    "hardware",
+    "pc"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03d5"
+  },
+  "productId": 506,
+  "name": "Case for iPhone 15",
+  "category": "Accessories",
+  "price": 12000,
+  "stock": 60,
+  "rating": 4.2,
+  "tags": [
+    "mobile",
+    "case"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36ab35c593924921c03d6"
+  },
+  "productId": 507,
+  "name": "Ugreen GaN Charger 65W",
+  "category": "Accessories",
+  "price": 22000,
+  "stock": 25,
+  "rating": 4.7,
+  "tags": [
+    "charger",
+    "office"
+  ]
+}]
